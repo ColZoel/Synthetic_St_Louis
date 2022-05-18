@@ -1,7 +1,4 @@
 
-**instead of running re.do or typing these commands manually, this do-file closes
-**the log and resets the frames automatically before running the file again.
-
 qui clear
 qui capture log close
 qui frame reset 
