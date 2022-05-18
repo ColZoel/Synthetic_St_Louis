@@ -1,4 +1,4 @@
-# Synthetic_St_Louis
+# Synthetic St Louis
 This project received high marks for Econ 488 Winter 2022. It leverages synthetic control statistical learning with econometric analysis to develop a causal effect of the move of a national team on local crime. 
 
 Abstract: 
