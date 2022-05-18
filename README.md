@@ -1,6 +1,7 @@
 # Synthetic_St_Louis
 The project I completed for ECON 488 Winter 2022 utlizing the synthetic control method
-#Abstract: 
+
+Abstract: 
 We develop a synthetic control that models a fictional St Louis 
 in which the Rams, formally the NFL team for St Louis, never
 relocated to Los Angeles, as occurred in 2016. Using crime data
